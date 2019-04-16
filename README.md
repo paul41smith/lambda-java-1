@@ -6,6 +6,8 @@ See AWS console Lambda screenshot in SupportFiles.
 
 Java Lambda handler method: example.S3EventProcessorCreateThumbnail
 
+## Git Repo
+git@github.com:paul41smith/lambda-java-1.git
 
 
 ##Reference Articles
